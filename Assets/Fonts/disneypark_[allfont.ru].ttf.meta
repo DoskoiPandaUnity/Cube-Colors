@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 629cc7cfe03f41e44ab7a7dc542fa7fd
+timeCreated: 1549133819
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DisneyPark
+  fontNames:
+  - DisneyPark
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
